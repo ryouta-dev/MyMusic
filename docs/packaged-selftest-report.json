@@ -1,0 +1,110 @@
+{
+  "generated_at": "2026-11-17T20:51:13+00:00",
+  "app": "MyMusic 0.1.0",
+  "python": "3.14.8",
+  "pyside6": "6.12.0",
+  "qt": "6.12.0",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "cpu_count": 12,
+  "ram_gib": 15.9,
+  "duration_s": 17.5,
+  "environment": "offscreen Qt; вывод звука отключён, поток проверяется по позиции и хосту",
+  "checks": {
+    "queue_semantics": {
+      "ok": true,
+      "detail": {
+        "duplicates": "разные entry_id",
+        "remove_current": "следующий выбран на паузе",
+        "remove_last": "idle",
+        "order_saved": true
+      }
+    },
+    "storage_roundtrip": {
+      "ok": true,
+      "detail": {
+        "rows": 3,
+        "cyrillic": "ok",
+        "favorites": "ok",
+        "secrets_in_db": false
+      }
+    },
+    "settings_corrupt_recovery": {
+      "ok": true,
+      "detail": {
+        "corrupted_recovered": true,
+        "atomic_reload": "ok"
+      }
+    },
+    "live_search_page1": {
+      "ok": true,
+      "detail": {
+        "state": "ready",
+        "results": 30,
+        "sample": [
+          "chromonicci. — workit (daftpunk flip)",
+          "Sury Have Dubz — Daft Punk - One More Time (Sury Have Dubz Remix)",
+          "camoufly — Daft Punk - Make Love (camoufly Remix)"
+        ],
+        "with_duration": 30,
+        "with_artwork": 30,
+        "source_pages": 30,
+        "messages": [
+          [
+            "loading",
+            "Поиск…"
+          ],
+          [
+            "ready",
+            ""
+          ]
+        ]
+      }
+    },
+    "live_search_page2": {
+      "ok": true,
+      "detail": {
+        "new_results": 30,
+        "distinct_from_page1": true,
+        "state": "ready",
+        "next_page_available": true
+      }
+    },
+    "real_stream_playback": {
+      "ok": true,
+      "detail": {
+        "state": "playing",
+        "position_ms": 8016,
+        "duration_ms": 190270,
+        "media_host": "validator.eeba4a6ca56a0d87af802270217c2a51.r2.cloudflarestorage.com",
+        "played_seconds": 8.0,
+        "error": null
+      }
+    },
+    "clean_shutdown": {
+      "ok": true,
+      "detail": {
+        "state": "shutting_down"
+      }
+    },
+    "offline_error_path": {
+      "ok": true,
+      "detail": {
+        "kind": "offline",
+        "user_message": "Нет подключения к интернету. Проверьте сеть и повторите.",
+        "retry_once_supported": true
+      }
+    },
+    "logs_without_secrets": {
+      "ok": true,
+      "detail": {
+        "files": [
+          "mymusic.log"
+        ],
+        "secrets_in_logs": false,
+        "events": 3
+      }
+    }
+  },
+  "failures": [],
+  "status": "PASS"
+}

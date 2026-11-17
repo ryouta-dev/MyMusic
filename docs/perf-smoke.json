@@ -1,0 +1,61 @@
+{
+  "generated_at": "2026-11-17T16:26:38+00:00",
+  "mode": "playing",
+  "widget_visible": false,
+  "playback_state": "playing",
+  "playback_state_end": "playing",
+  "position_ms_end": 20712,
+  "tracks_played": 1,
+  "error_end": null,
+  "search_state_end": "ready",
+  "search_results_end": 30,
+  "media_host": "validator.eeba4a6ca56a0d87af802270217c2a51.r2.cloudflarestorage.com",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "cpu_count": 12,
+  "python": "3.14.8",
+  "warmup_s": 5,
+  "volume": 0.0,
+  "duration_s": 15,
+  "samples": [
+    {
+      "t_s": 2.0,
+      "cpu_percent": 0.4549,
+      "private_mib": 67.79
+    },
+    {
+      "t_s": 4.0,
+      "cpu_percent": 0.8451,
+      "private_mib": 67.72
+    },
+    {
+      "t_s": 6.0,
+      "cpu_percent": 0.6476,
+      "private_mib": 67.72
+    },
+    {
+      "t_s": 8.0,
+      "cpu_percent": 0.7793,
+      "private_mib": 67.79
+    },
+    {
+      "t_s": 10.0,
+      "cpu_percent": 0.5836,
+      "private_mib": 67.79
+    },
+    {
+      "t_s": 15.7,
+      "cpu_percent": 0.5466,
+      "private_mib": 67.74
+    }
+  ],
+  "cpu_percent_avg": 0.6429,
+  "cpu_percent_p95": 0.8451,
+  "private_mib_avg": 67.76,
+  "private_mib_max": 67.79,
+  "private_mib_first": 67.79,
+  "private_mib_end": 67.74,
+  "private_mib_delta": -0.05,
+  "gpu_percent_avg": 0.0,
+  "gpu_percent_max": 0.0,
+  "process_count": 1
+}

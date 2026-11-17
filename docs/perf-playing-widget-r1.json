@@ -1,0 +1,1207 @@
+{
+  "generated_at": "2026-11-17T19:30:33+00:00",
+  "mode": "playing",
+  "widget_visible": true,
+  "playback_state": "playing",
+  "playback_state_end": "playing",
+  "position_ms_end": 125376,
+  "tracks_played": 3,
+  "auto_advances": 0,
+  "error_end": null,
+  "search_state_end": "ready",
+  "search_results_end": 30,
+  "media_host": "validator.eeba4a6ca56a0d87af802270217c2a51.r2.cloudflarestorage.com",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "cpu_count": 12,
+  "python": "3.14.8",
+  "warmup_s": 60,
+  "volume": 0.0,
+  "duration_s": 600,
+  "samples": [
+    {
+      "t_s": 2.0,
+      "cpu_percent": 0.6497,
+      "private_mib": 62.57
+    },
+    {
+      "t_s": 4.0,
+      "cpu_percent": 0.6493,
+      "private_mib": 62.57
+    },
+    {
+      "t_s": 6.0,
+      "cpu_percent": 0.6481,
+      "private_mib": 62.57
+    },
+    {
+      "t_s": 8.0,
+      "cpu_percent": 0.6503,
+      "private_mib": 62.57
+    },
+    {
+      "t_s": 10.0,
+      "cpu_percent": 0.4549,
+      "private_mib": 62.57
+    },
+    {
+      "t_s": 14.8,
+      "cpu_percent": 0.5498,
+      "private_mib": 62.82
+    },
+    {
+      "t_s": 16.8,
+      "cpu_percent": 0.6495,
+      "private_mib": 62.82
+    },
+    {
+      "t_s": 18.8,
+      "cpu_percent": 0.6479,
+      "private_mib": 62.82
+    },
+    {
+      "t_s": 20.8,
+      "cpu_percent": 0.6475,
+      "private_mib": 62.82
+    },
+    {
+      "t_s": 22.8,
+      "cpu_percent": 0.5196,
+      "private_mib": 62.82
+    },
+    {
+      "t_s": 27.4,
+      "cpu_percent": 0.7002,
+      "private_mib": 62.82
+    },
+    {
+      "t_s": 29.4,
+      "cpu_percent": 0.6481,
+      "private_mib": 62.82
+    },
+    {
+      "t_s": 31.5,
+      "cpu_percent": 0.7792,
+      "private_mib": 62.82
+    },
+    {
+      "t_s": 33.5,
+      "cpu_percent": 0.5854,
+      "private_mib": 62.82
+    },
+    {
+      "t_s": 35.5,
+      "cpu_percent": 0.7793,
+      "private_mib": 62.82
+    },
+    {
+      "t_s": 40.1,
+      "cpu_percent": 0.7599,
+      "private_mib": 62.82
+    },
+    {
+      "t_s": 42.1,
+      "cpu_percent": 0.6491,
+      "private_mib": 62.82
+    },
+    {
+      "t_s": 44.1,
+      "cpu_percent": 0.7129,
+      "private_mib": 62.82
+    },
+    {
+      "t_s": 46.1,
+      "cpu_percent": 0.7126,
+      "private_mib": 62.82
+    },
+    {
+      "t_s": 48.1,
+      "cpu_percent": 0.7773,
+      "private_mib": 62.82
+    },
+    {
+      "t_s": 52.8,
+      "cpu_percent": 0.7831,
+      "private_mib": 62.95
+    },
+    {
+      "t_s": 54.8,
+      "cpu_percent": 0.6488,
+      "private_mib": 62.95
+    },
+    {
+      "t_s": 56.8,
+      "cpu_percent": 0.7802,
+      "private_mib": 62.95
+    },
+    {
+      "t_s": 58.8,
+      "cpu_percent": 0.7154,
+      "private_mib": 62.84
+    },
+    {
+      "t_s": 60.8,
+      "cpu_percent": 0.9748,
+      "private_mib": 62.76
+    },
+    {
+      "t_s": 65.5,
+      "cpu_percent": 0.8943,
+      "private_mib": 62.76
+    },
+    {
+      "t_s": 67.5,
+      "cpu_percent": 0.6499,
+      "private_mib": 62.76
+    },
+    {
+      "t_s": 69.5,
+      "cpu_percent": 1.037,
+      "private_mib": 62.76
+    },
+    {
+      "t_s": 71.5,
+      "cpu_percent": 0.7786,
+      "private_mib": 62.76
+    },
+    {
+      "t_s": 73.5,
+      "cpu_percent": 0.583,
+      "private_mib": 62.76
+    },
+    {
+      "t_s": 78.1,
+      "cpu_percent": 0.6425,
+      "private_mib": 62.89
+    },
+    {
+      "t_s": 80.1,
+      "cpu_percent": 0.7153,
+      "private_mib": 62.89
+    },
+    {
+      "t_s": 82.1,
+      "cpu_percent": 0.9102,
+      "private_mib": 62.89
+    },
+    {
+      "t_s": 84.2,
+      "cpu_percent": 0.4536,
+      "private_mib": 62.89
+    },
+    {
+      "t_s": 86.2,
+      "cpu_percent": 0.7795,
+      "private_mib": 62.89
+    },
+    {
+      "t_s": 90.8,
+      "cpu_percent": 0.563,
+      "private_mib": 62.89
+    },
+    {
+      "t_s": 92.8,
+      "cpu_percent": 0.8441,
+      "private_mib": 62.89
+    },
+    {
+      "t_s": 94.8,
+      "cpu_percent": 0.8437,
+      "private_mib": 62.89
+    },
+    {
+      "t_s": 96.8,
+      "cpu_percent": 0.3899,
+      "private_mib": 62.89
+    },
+    {
+      "t_s": 98.8,
+      "cpu_percent": 0.3895,
+      "private_mib": 62.89
+    },
+    {
+      "t_s": 103.5,
+      "cpu_percent": 0.7253,
+      "private_mib": 62.89
+    },
+    {
+      "t_s": 105.5,
+      "cpu_percent": 0.454,
+      "private_mib": 62.89
+    },
+    {
+      "t_s": 107.5,
+      "cpu_percent": 0.7151,
+      "private_mib": 62.89
+    },
+    {
+      "t_s": 109.5,
+      "cpu_percent": 0.9095,
+      "private_mib": 62.89
+    },
+    {
+      "t_s": 111.5,
+      "cpu_percent": 0.5852,
+      "private_mib": 62.89
+    },
+    {
+      "t_s": 116.5,
+      "cpu_percent": 0.8791,
+      "private_mib": 63.02
+    },
+    {
+      "t_s": 118.5,
+      "cpu_percent": 0.5853,
+      "private_mib": 63.02
+    },
+    {
+      "t_s": 120.5,
+      "cpu_percent": 0.714,
+      "private_mib": 63.02
+    },
+    {
+      "t_s": 122.5,
+      "cpu_percent": 0.6496,
+      "private_mib": 63.02
+    },
+    {
+      "t_s": 124.5,
+      "cpu_percent": 0.5849,
+      "private_mib": 63.02
+    },
+    {
+      "t_s": 129.4,
+      "cpu_percent": 0.8297,
+      "private_mib": 63.02
+    },
+    {
+      "t_s": 131.4,
+      "cpu_percent": 0.8424,
+      "private_mib": 66.08
+    },
+    {
+      "t_s": 133.4,
+      "cpu_percent": 0.1299,
+      "private_mib": 66.22
+    },
+    {
+      "t_s": 135.4,
+      "cpu_percent": 0.9107,
+      "private_mib": 66.49
+    },
+    {
+      "t_s": 137.4,
+      "cpu_percent": 0.3891,
+      "private_mib": 66.49
+    },
+    {
+      "t_s": 142.3,
+      "cpu_percent": 0.7007,
+      "private_mib": 66.49
+    },
+    {
+      "t_s": 144.3,
+      "cpu_percent": 0.9074,
+      "private_mib": 66.49
+    },
+    {
+      "t_s": 146.3,
+      "cpu_percent": 0.7142,
+      "private_mib": 66.49
+    },
+    {
+      "t_s": 148.3,
+      "cpu_percent": 0.7134,
+      "private_mib": 66.49
+    },
+    {
+      "t_s": 150.3,
+      "cpu_percent": 0.4537,
+      "private_mib": 66.49
+    },
+    {
+      "t_s": 155.0,
+      "cpu_percent": 0.6618,
+      "private_mib": 66.49
+    },
+    {
+      "t_s": 157.0,
+      "cpu_percent": 0.5853,
+      "private_mib": 66.49
+    },
+    {
+      "t_s": 159.0,
+      "cpu_percent": 0.6483,
+      "private_mib": 66.49
+    },
+    {
+      "t_s": 161.0,
+      "cpu_percent": 0.8447,
+      "private_mib": 66.49
+    },
+    {
+      "t_s": 163.0,
+      "cpu_percent": 0.7779,
+      "private_mib": 66.45
+    },
+    {
+      "t_s": 167.7,
+      "cpu_percent": 0.5264,
+      "private_mib": 66.39
+    },
+    {
+      "t_s": 169.7,
+      "cpu_percent": 0.9114,
+      "private_mib": 66.39
+    },
+    {
+      "t_s": 171.7,
+      "cpu_percent": 0.455,
+      "private_mib": 66.39
+    },
+    {
+      "t_s": 173.8,
+      "cpu_percent": 0.9726,
+      "private_mib": 66.39
+    },
+    {
+      "t_s": 175.8,
+      "cpu_percent": 0.846,
+      "private_mib": 66.39
+    },
+    {
+      "t_s": 180.4,
+      "cpu_percent": 0.6934,
+      "private_mib": 66.39
+    },
+    {
+      "t_s": 182.5,
+      "cpu_percent": 0.6478,
+      "private_mib": 66.39
+    },
+    {
+      "t_s": 184.5,
+      "cpu_percent": 0.7134,
+      "private_mib": 66.36
+    },
+    {
+      "t_s": 186.5,
+      "cpu_percent": 0.7149,
+      "private_mib": 66.36
+    },
+    {
+      "t_s": 188.5,
+      "cpu_percent": 0.7775,
+      "private_mib": 66.36
+    },
+    {
+      "t_s": 193.2,
+      "cpu_percent": 0.7785,
+      "private_mib": 66.36
+    },
+    {
+      "t_s": 195.2,
+      "cpu_percent": 0.5835,
+      "private_mib": 66.36
+    },
+    {
+      "t_s": 197.2,
+      "cpu_percent": 0.7126,
+      "private_mib": 66.36
+    },
+    {
+      "t_s": 199.2,
+      "cpu_percent": 0.648,
+      "private_mib": 66.36
+    },
+    {
+      "t_s": 201.2,
+      "cpu_percent": 0.7123,
+      "private_mib": 66.36
+    },
+    {
+      "t_s": 206.0,
+      "cpu_percent": 0.7399,
+      "private_mib": 66.29
+    },
+    {
+      "t_s": 208.0,
+      "cpu_percent": 1.0387,
+      "private_mib": 66.29
+    },
+    {
+      "t_s": 210.0,
+      "cpu_percent": 0.6509,
+      "private_mib": 66.29
+    },
+    {
+      "t_s": 212.0,
+      "cpu_percent": 1.0396,
+      "private_mib": 66.29
+    },
+    {
+      "t_s": 214.0,
+      "cpu_percent": 0.8438,
+      "private_mib": 66.29
+    },
+    {
+      "t_s": 218.8,
+      "cpu_percent": 0.5926,
+      "private_mib": 66.29
+    },
+    {
+      "t_s": 220.8,
+      "cpu_percent": 0.7774,
+      "private_mib": 66.29
+    },
+    {
+      "t_s": 222.8,
+      "cpu_percent": 0.7798,
+      "private_mib": 66.29
+    },
+    {
+      "t_s": 224.8,
+      "cpu_percent": 0.7139,
+      "private_mib": 66.29
+    },
+    {
+      "t_s": 226.8,
+      "cpu_percent": 0.9082,
+      "private_mib": 66.29
+    },
+    {
+      "t_s": 231.7,
+      "cpu_percent": 0.7159,
+      "private_mib": 66.29
+    },
+    {
+      "t_s": 233.7,
+      "cpu_percent": 0.4538,
+      "private_mib": 66.3
+    },
+    {
+      "t_s": 235.8,
+      "cpu_percent": 0.7127,
+      "private_mib": 66.3
+    },
+    {
+      "t_s": 237.8,
+      "cpu_percent": 0.5844,
+      "private_mib": 66.3
+    },
+    {
+      "t_s": 239.8,
+      "cpu_percent": 0.8459,
+      "private_mib": 66.3
+    },
+    {
+      "t_s": 244.5,
+      "cpu_percent": 0.6606,
+      "private_mib": 66.3
+    },
+    {
+      "t_s": 246.5,
+      "cpu_percent": 0.9732,
+      "private_mib": 66.3
+    },
+    {
+      "t_s": 248.5,
+      "cpu_percent": 0.5854,
+      "private_mib": 66.3
+    },
+    {
+      "t_s": 250.5,
+      "cpu_percent": 0.5848,
+      "private_mib": 66.3
+    },
+    {
+      "t_s": 252.5,
+      "cpu_percent": 0.7128,
+      "private_mib": 66.3
+    },
+    {
+      "t_s": 257.3,
+      "cpu_percent": 0.7408,
+      "private_mib": 66.03
+    },
+    {
+      "t_s": 259.3,
+      "cpu_percent": 0.6508,
+      "private_mib": 66.03
+    },
+    {
+      "t_s": 261.3,
+      "cpu_percent": 0.8429,
+      "private_mib": 66.03
+    },
+    {
+      "t_s": 263.3,
+      "cpu_percent": 0.7158,
+      "private_mib": 66.03
+    },
+    {
+      "t_s": 265.3,
+      "cpu_percent": 0.9081,
+      "private_mib": 66.03
+    },
+    {
+      "t_s": 269.7,
+      "cpu_percent": 0.6253,
+      "private_mib": 66.03
+    },
+    {
+      "t_s": 271.7,
+      "cpu_percent": 0.8424,
+      "private_mib": 66.03
+    },
+    {
+      "t_s": 273.7,
+      "cpu_percent": 0.9754,
+      "private_mib": 66.03
+    },
+    {
+      "t_s": 275.7,
+      "cpu_percent": 0.9754,
+      "private_mib": 66.03
+    },
+    {
+      "t_s": 277.7,
+      "cpu_percent": 0.519,
+      "private_mib": 66.03
+    },
+    {
+      "t_s": 282.4,
+      "cpu_percent": 0.7679,
+      "private_mib": 66.03
+    },
+    {
+      "t_s": 284.4,
+      "cpu_percent": 0.9085,
+      "private_mib": 66.03
+    },
+    {
+      "t_s": 286.4,
+      "cpu_percent": 0.7147,
+      "private_mib": 66.03
+    },
+    {
+      "t_s": 288.4,
+      "cpu_percent": 0.5832,
+      "private_mib": 66.03
+    },
+    {
+      "t_s": 290.4,
+      "cpu_percent": 0.7138,
+      "private_mib": 66.03
+    },
+    {
+      "t_s": 295.8,
+      "cpu_percent": 0.5349,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 297.8,
+      "cpu_percent": 0.7777,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 299.8,
+      "cpu_percent": 1.0413,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 301.8,
+      "cpu_percent": 0.9073,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 303.8,
+      "cpu_percent": 0.7135,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 308.5,
+      "cpu_percent": 0.4984,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 310.5,
+      "cpu_percent": 0.585,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 312.5,
+      "cpu_percent": 0.9097,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 315.4,
+      "cpu_percent": 0.5541,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 317.4,
+      "cpu_percent": 0.5184,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 322.1,
+      "cpu_percent": 0.8052,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 324.1,
+      "cpu_percent": 0.7133,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 326.1,
+      "cpu_percent": 0.6489,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 328.1,
+      "cpu_percent": 0.7805,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 330.4,
+      "cpu_percent": 0.9665,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 335.1,
+      "cpu_percent": 0.714,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 337.1,
+      "cpu_percent": 0.4534,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 339.1,
+      "cpu_percent": 0.7774,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 341.1,
+      "cpu_percent": 0.7794,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 343.1,
+      "cpu_percent": 0.4555,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 348.0,
+      "cpu_percent": 0.6685,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 350.0,
+      "cpu_percent": 0.5205,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 352.0,
+      "cpu_percent": 1.0412,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 354.0,
+      "cpu_percent": 0.972,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 356.0,
+      "cpu_percent": 0.7782,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 360.7,
+      "cpu_percent": 0.6643,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 362.7,
+      "cpu_percent": 0.9739,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 364.7,
+      "cpu_percent": 0.7785,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 366.7,
+      "cpu_percent": 0.8441,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 368.7,
+      "cpu_percent": 0.7152,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 373.4,
+      "cpu_percent": 0.6663,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 375.4,
+      "cpu_percent": 0.7146,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 377.5,
+      "cpu_percent": 0.8419,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 379.5,
+      "cpu_percent": 0.8454,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 381.5,
+      "cpu_percent": 0.911,
+      "private_mib": 66.06
+    },
+    {
+      "t_s": 386.2,
+      "cpu_percent": 0.7989,
+      "private_mib": 66.19
+    },
+    {
+      "t_s": 388.2,
+      "cpu_percent": 0.9724,
+      "private_mib": 66.19
+    },
+    {
+      "t_s": 390.2,
+      "cpu_percent": 0.8422,
+      "private_mib": 66.19
+    },
+    {
+      "t_s": 392.2,
+      "cpu_percent": 0.5185,
+      "private_mib": 66.19
+    },
+    {
+      "t_s": 394.2,
+      "cpu_percent": 0.7158,
+      "private_mib": 66.19
+    },
+    {
+      "t_s": 399.0,
+      "cpu_percent": 0.7122,
+      "private_mib": 66.19
+    },
+    {
+      "t_s": 401.0,
+      "cpu_percent": 0.9728,
+      "private_mib": 66.19
+    },
+    {
+      "t_s": 403.0,
+      "cpu_percent": 0.7134,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 405.0,
+      "cpu_percent": 0.585,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 407.0,
+      "cpu_percent": 0.8443,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 411.7,
+      "cpu_percent": 0.8047,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 413.7,
+      "cpu_percent": 0.5855,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 415.7,
+      "cpu_percent": 0.9745,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 417.7,
+      "cpu_percent": 1.2966,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 419.7,
+      "cpu_percent": 0.911,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 424.6,
+      "cpu_percent": 0.7753,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 426.6,
+      "cpu_percent": 0.7128,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 428.6,
+      "cpu_percent": 0.9066,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 430.6,
+      "cpu_percent": 0.9069,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 432.6,
+      "cpu_percent": 0.6479,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 437.4,
+      "cpu_percent": 0.6508,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 439.4,
+      "cpu_percent": 0.4554,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 441.4,
+      "cpu_percent": 0.9728,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 443.4,
+      "cpu_percent": 0.5193,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 445.4,
+      "cpu_percent": 0.5204,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 450.2,
+      "cpu_percent": 0.8644,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 452.3,
+      "cpu_percent": 0.9713,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 454.3,
+      "cpu_percent": 0.5181,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 456.3,
+      "cpu_percent": 0.781,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 458.3,
+      "cpu_percent": 0.9735,
+      "private_mib": 66.17
+    },
+    {
+      "t_s": 463.1,
+      "cpu_percent": 0.6217,
+      "private_mib": 66.17
+    },
+    {
+      "t_s": 465.1,
+      "cpu_percent": 0.7798,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 467.1,
+      "cpu_percent": 0.5829,
+      "private_mib": 66.14
+    },
+    {
+      "t_s": 469.1,
+      "cpu_percent": 0.5202,
+      "private_mib": 66.51
+    },
+    {
+      "t_s": 471.1,
+      "cpu_percent": 0.1297,
+      "private_mib": 68.2
+    },
+    {
+      "t_s": 475.9,
+      "cpu_percent": 0.3779,
+      "private_mib": 68.53
+    },
+    {
+      "t_s": 477.9,
+      "cpu_percent": 0.8426,
+      "private_mib": 68.53
+    },
+    {
+      "t_s": 480.0,
+      "cpu_percent": 0.648,
+      "private_mib": 68.53
+    },
+    {
+      "t_s": 482.0,
+      "cpu_percent": 0.6479,
+      "private_mib": 68.53
+    },
+    {
+      "t_s": 484.0,
+      "cpu_percent": 0.5851,
+      "private_mib": 68.53
+    },
+    {
+      "t_s": 488.7,
+      "cpu_percent": 0.7898,
+      "private_mib": 68.54
+    },
+    {
+      "t_s": 490.8,
+      "cpu_percent": 0.715,
+      "private_mib": 68.54
+    },
+    {
+      "t_s": 492.8,
+      "cpu_percent": 0.4545,
+      "private_mib": 68.54
+    },
+    {
+      "t_s": 494.8,
+      "cpu_percent": 0.8434,
+      "private_mib": 68.54
+    },
+    {
+      "t_s": 496.8,
+      "cpu_percent": 0.6485,
+      "private_mib": 68.54
+    },
+    {
+      "t_s": 501.6,
+      "cpu_percent": 0.7561,
+      "private_mib": 68.62
+    },
+    {
+      "t_s": 503.6,
+      "cpu_percent": 0.5198,
+      "private_mib": 68.62
+    },
+    {
+      "t_s": 505.6,
+      "cpu_percent": 0.781,
+      "private_mib": 68.62
+    },
+    {
+      "t_s": 507.6,
+      "cpu_percent": 1.1037,
+      "private_mib": 68.62
+    },
+    {
+      "t_s": 509.6,
+      "cpu_percent": 0.7151,
+      "private_mib": 68.62
+    },
+    {
+      "t_s": 514.4,
+      "cpu_percent": 0.7839,
+      "private_mib": 68.62
+    },
+    {
+      "t_s": 516.4,
+      "cpu_percent": 0.8436,
+      "private_mib": 68.62
+    },
+    {
+      "t_s": 518.4,
+      "cpu_percent": 0.8453,
+      "private_mib": 68.62
+    },
+    {
+      "t_s": 520.4,
+      "cpu_percent": 0.9114,
+      "private_mib": 68.62
+    },
+    {
+      "t_s": 522.4,
+      "cpu_percent": 1.0401,
+      "private_mib": 68.62
+    },
+    {
+      "t_s": 527.2,
+      "cpu_percent": 0.8682,
+      "private_mib": 68.62
+    },
+    {
+      "t_s": 529.2,
+      "cpu_percent": 0.8434,
+      "private_mib": 68.62
+    },
+    {
+      "t_s": 531.2,
+      "cpu_percent": 0.9729,
+      "private_mib": 68.62
+    },
+    {
+      "t_s": 533.3,
+      "cpu_percent": 0.6483,
+      "private_mib": 68.65
+    },
+    {
+      "t_s": 535.3,
+      "cpu_percent": 0.5204,
+      "private_mib": 68.65
+    },
+    {
+      "t_s": 540.1,
+      "cpu_percent": 0.8604,
+      "private_mib": 68.62
+    },
+    {
+      "t_s": 542.1,
+      "cpu_percent": 0.8433,
+      "private_mib": 68.62
+    },
+    {
+      "t_s": 544.1,
+      "cpu_percent": 0.7811,
+      "private_mib": 68.62
+    },
+    {
+      "t_s": 546.1,
+      "cpu_percent": 0.9107,
+      "private_mib": 68.62
+    },
+    {
+      "t_s": 548.1,
+      "cpu_percent": 1.1687,
+      "private_mib": 68.62
+    },
+    {
+      "t_s": 552.9,
+      "cpu_percent": 0.788,
+      "private_mib": 68.63
+    },
+    {
+      "t_s": 554.9,
+      "cpu_percent": 1.2321,
+      "private_mib": 68.63
+    },
+    {
+      "t_s": 556.9,
+      "cpu_percent": 0.7149,
+      "private_mib": 68.63
+    },
+    {
+      "t_s": 558.9,
+      "cpu_percent": 0.5834,
+      "private_mib": 68.63
+    },
+    {
+      "t_s": 560.9,
+      "cpu_percent": 0.7784,
+      "private_mib": 68.63
+    },
+    {
+      "t_s": 565.8,
+      "cpu_percent": 0.7566,
+      "private_mib": 68.63
+    },
+    {
+      "t_s": 567.8,
+      "cpu_percent": 1.0399,
+      "private_mib": 68.63
+    },
+    {
+      "t_s": 569.8,
+      "cpu_percent": 1.0367,
+      "private_mib": 68.63
+    },
+    {
+      "t_s": 571.8,
+      "cpu_percent": 0.7806,
+      "private_mib": 68.63
+    },
+    {
+      "t_s": 573.8,
+      "cpu_percent": 0.8433,
+      "private_mib": 68.63
+    },
+    {
+      "t_s": 578.4,
+      "cpu_percent": 0.8647,
+      "private_mib": 68.63
+    },
+    {
+      "t_s": 580.5,
+      "cpu_percent": 0.9079,
+      "private_mib": 68.63
+    },
+    {
+      "t_s": 582.5,
+      "cpu_percent": 0.7129,
+      "private_mib": 68.63
+    },
+    {
+      "t_s": 584.5,
+      "cpu_percent": 1.0378,
+      "private_mib": 68.63
+    },
+    {
+      "t_s": 586.5,
+      "cpu_percent": 0.5855,
+      "private_mib": 68.63
+    },
+    {
+      "t_s": 591.4,
+      "cpu_percent": 0.7202,
+      "private_mib": 68.49
+    },
+    {
+      "t_s": 593.4,
+      "cpu_percent": 0.7151,
+      "private_mib": 68.49
+    },
+    {
+      "t_s": 595.4,
+      "cpu_percent": 0.6509,
+      "private_mib": 68.49
+    },
+    {
+      "t_s": 597.4,
+      "cpu_percent": 0.7147,
+      "private_mib": 68.49
+    },
+    {
+      "t_s": 599.4,
+      "cpu_percent": 0.5199,
+      "private_mib": 68.49
+    }
+  ],
+  "cpu_percent_avg": 0.7359,
+  "cpu_percent_p95": 1.0367,
+  "private_mib_avg": 65.99,
+  "private_mib_max": 68.65,
+  "private_mib_first": 62.57,
+  "private_mib_end": 68.49,
+  "private_mib_delta": 5.92,
+  "gpu_percent_avg": 0.0,
+  "gpu_percent_max": 0.0,
+  "process_count": 1
+}

@@ -1,0 +1,8 @@
+{
+    "generated_at":  "2026-11-17T20:50:50Z",
+    "first_window_detected":  true,
+    "first_alive_after_second_launch":  true,
+    "second_exited_within_10s":  true,
+    "second_exit_code":  0,
+    "two_independent_instances":  false
+}

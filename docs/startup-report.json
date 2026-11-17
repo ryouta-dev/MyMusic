@@ -1,0 +1,33 @@
+{
+    "generated_at":  "2026-11-17T20:47:25Z",
+    "exe":  "C:\\mymusic\\dist\\MyMusic\\MyMusic.exe",
+    "runs":  [
+                 {
+                     "run":  1,
+                     "interactive_ms":  1588.1,
+                     "window_detected":  true
+                 },
+                 {
+                     "run":  2,
+                     "interactive_ms":  1197.3,
+                     "window_detected":  true
+                 },
+                 {
+                     "run":  3,
+                     "interactive_ms":  896.7,
+                     "window_detected":  true
+                 },
+                 {
+                     "run":  4,
+                     "interactive_ms":  1859.2,
+                     "window_detected":  true
+                 },
+                 {
+                     "run":  5,
+                     "interactive_ms":  956.4,
+                     "window_detected":  true
+                 }
+             ],
+    "median_interactive_ms":  1197.3,
+    "note":  "Process was force-stopped after the window appeared; this measures startup, not shutdown."
+}

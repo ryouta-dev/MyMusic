@@ -1,0 +1,255 @@
+﻿{
+    "generated_at":  "2026-11-17T20:35:35Z",
+    "exe":  "C:\\mymusic\\dist\\MyMusic\\MyMusic.exe",
+    "protocol":  "60 s warmup, 3 repeats, audio output muted at user request; CPU = process CPU delta / wall / logical cores * 100",
+    "scenarios":  [
+                      {
+                          "scenario":  "idle-hidden",
+                          "mode":  "idle",
+                          "widget_visible":  false,
+                          "duration_s":  300,
+                          "repeats":  3,
+                          "cpu_percent_avg_of_runs":  0.077500000000000013,
+                          "private_mib_avg_of_runs":  46.98,
+                          "private_mib_max":  47.33,
+                          "tracks_played":  [
+                                                0,
+                                                0,
+                                                0
+                                            ],
+                          "runs":  [
+                                       {
+                                           "repeat":  1,
+                                           "cpu_percent_avg":  0.0723,
+                                           "cpu_percent_p95":  0.1949,
+                                           "private_mib_avg":  47.28,
+                                           "private_mib_max":  47.33,
+                                           "private_mib_delta":  0.01,
+                                           "playback_state":  "idle",
+                                           "playback_state_end":  "idle",
+                                           "tracks_played":  0,
+                                           "auto_advances":  0,
+                                           "search_state_end":  "idle",
+                                           "gpu_percent_avg":  null,
+                                           "report":  "perf-idle-hidden-r1.json"
+                                       },
+                                       {
+                                           "repeat":  2,
+                                           "cpu_percent_avg":  0.0792,
+                                           "cpu_percent_p95":  0.1951,
+                                           "private_mib_avg":  47.01,
+                                           "private_mib_max":  47.07,
+                                           "private_mib_delta":  -0.03,
+                                           "playback_state":  "idle",
+                                           "playback_state_end":  "idle",
+                                           "tracks_played":  0,
+                                           "auto_advances":  0,
+                                           "search_state_end":  "idle",
+                                           "gpu_percent_avg":  null,
+                                           "report":  "perf-idle-hidden-r2.json"
+                                       },
+                                       {
+                                           "repeat":  3,
+                                           "cpu_percent_avg":  0.081,
+                                           "cpu_percent_p95":  0.1952,
+                                           "private_mib_avg":  46.65,
+                                           "private_mib_max":  46.72,
+                                           "private_mib_delta":  0.01,
+                                           "playback_state":  "idle",
+                                           "playback_state_end":  "idle",
+                                           "tracks_played":  0,
+                                           "auto_advances":  0,
+                                           "search_state_end":  "idle",
+                                           "gpu_percent_avg":  null,
+                                           "report":  "perf-idle-hidden-r3.json"
+                                       }
+                                   ]
+                      },
+                      {
+                          "scenario":  "playing-widget",
+                          "mode":  "playing",
+                          "widget_visible":  true,
+                          "duration_s":  600,
+                          "repeats":  3,
+                          "cpu_percent_avg_of_runs":  0.5974666666666667,
+                          "private_mib_avg_of_runs":  65.61,
+                          "private_mib_max":  69.5,
+                          "tracks_played":  [
+                                                3,
+                                                4,
+                                                3
+                                            ],
+                          "runs":  [
+                                       {
+                                           "repeat":  1,
+                                           "cpu_percent_avg":  0.7359,
+                                           "cpu_percent_p95":  1.0367,
+                                           "private_mib_avg":  65.99,
+                                           "private_mib_max":  68.65,
+                                           "private_mib_delta":  5.92,
+                                           "playback_state":  "playing",
+                                           "playback_state_end":  "playing",
+                                           "tracks_played":  3,
+                                           "auto_advances":  0,
+                                           "search_state_end":  "ready",
+                                           "gpu_percent_avg":  0.0,
+                                           "report":  "perf-playing-widget-r1.json"
+                                       },
+                                       {
+                                           "repeat":  2,
+                                           "cpu_percent_avg":  0.6926,
+                                           "cpu_percent_p95":  1.0398,
+                                           "private_mib_avg":  65.59,
+                                           "private_mib_max":  69.5,
+                                           "private_mib_delta":  6.99,
+                                           "playback_state":  "playing",
+                                           "playback_state_end":  "playing",
+                                           "tracks_played":  4,
+                                           "auto_advances":  1,
+                                           "search_state_end":  "ready",
+                                           "gpu_percent_avg":  0.0,
+                                           "report":  "perf-playing-widget-r2.json"
+                                       },
+                                       {
+                                           "repeat":  3,
+                                           "cpu_percent_avg":  0.3639,
+                                           "cpu_percent_p95":  0.6485,
+                                           "private_mib_avg":  65.25,
+                                           "private_mib_max":  67.66,
+                                           "private_mib_delta":  4.3,
+                                           "playback_state":  "playing",
+                                           "playback_state_end":  "playing",
+                                           "tracks_played":  3,
+                                           "auto_advances":  0,
+                                           "search_state_end":  "ready",
+                                           "gpu_percent_avg":  0.0,
+                                           "report":  "perf-playing-widget-r3.json"
+                                       }
+                                   ]
+                      },
+                      {
+                          "scenario":  "playing-hidden",
+                          "mode":  "playing",
+                          "widget_visible":  false,
+                          "duration_s":  600,
+                          "repeats":  3,
+                          "cpu_percent_avg_of_runs":  0.3213333333333333,
+                          "private_mib_avg_of_runs":  63.9,
+                          "private_mib_max":  65.57,
+                          "tracks_played":  [
+                                                3,
+                                                3,
+                                                3
+                                            ],
+                          "runs":  [
+                                       {
+                                           "repeat":  1,
+                                           "cpu_percent_avg":  0.3269,
+                                           "cpu_percent_p95":  0.5834,
+                                           "private_mib_avg":  64.15,
+                                           "private_mib_max":  65.36,
+                                           "private_mib_delta":  3.17,
+                                           "playback_state":  "playing",
+                                           "playback_state_end":  "playing",
+                                           "tracks_played":  3,
+                                           "auto_advances":  0,
+                                           "search_state_end":  "ready",
+                                           "gpu_percent_avg":  0.0,
+                                           "report":  "perf-playing-hidden-r1.json"
+                                       },
+                                       {
+                                           "repeat":  2,
+                                           "cpu_percent_avg":  0.3227,
+                                           "cpu_percent_p95":  0.5205,
+                                           "private_mib_avg":  63.63,
+                                           "private_mib_max":  64.91,
+                                           "private_mib_delta":  2.85,
+                                           "playback_state":  "playing",
+                                           "playback_state_end":  "playing",
+                                           "tracks_played":  3,
+                                           "auto_advances":  0,
+                                           "search_state_end":  "ready",
+                                           "gpu_percent_avg":  0.0,
+                                           "report":  "perf-playing-hidden-r2.json"
+                                       },
+                                       {
+                                           "repeat":  3,
+                                           "cpu_percent_avg":  0.3144,
+                                           "cpu_percent_p95":  0.5192,
+                                           "private_mib_avg":  63.92,
+                                           "private_mib_max":  65.57,
+                                           "private_mib_delta":  2.84,
+                                           "playback_state":  "playing",
+                                           "playback_state_end":  "playing",
+                                           "tracks_played":  3,
+                                           "auto_advances":  0,
+                                           "search_state_end":  "ready",
+                                           "gpu_percent_avg":  0.0,
+                                           "report":  "perf-playing-hidden-r3.json"
+                                       }
+                                   ]
+                      },
+                      {
+                          "scenario":  "search-open",
+                          "mode":  "search",
+                          "widget_visible":  false,
+                          "duration_s":  120,
+                          "repeats":  3,
+                          "cpu_percent_avg_of_runs":  0.1075,
+                          "private_mib_avg_of_runs":  55.35,
+                          "private_mib_max":  56.72,
+                          "tracks_played":  [
+                                                0,
+                                                0,
+                                                0
+                                            ],
+                          "runs":  [
+                                       {
+                                           "repeat":  1,
+                                           "cpu_percent_avg":  0.1017,
+                                           "cpu_percent_p95":  0.5181,
+                                           "private_mib_avg":  55.33,
+                                           "private_mib_max":  56.07,
+                                           "private_mib_delta":  2.54,
+                                           "playback_state":  "idle",
+                                           "playback_state_end":  "idle",
+                                           "tracks_played":  0,
+                                           "auto_advances":  0,
+                                           "search_state_end":  "ready",
+                                           "gpu_percent_avg":  null,
+                                           "report":  "perf-search-open-r1.json"
+                                       },
+                                       {
+                                           "repeat":  2,
+                                           "cpu_percent_avg":  0.1169,
+                                           "cpu_percent_p95":  0.4548,
+                                           "private_mib_avg":  55.54,
+                                           "private_mib_max":  56.72,
+                                           "private_mib_delta":  2.83,
+                                           "playback_state":  "idle",
+                                           "playback_state_end":  "idle",
+                                           "tracks_played":  0,
+                                           "auto_advances":  0,
+                                           "search_state_end":  "ready",
+                                           "gpu_percent_avg":  null,
+                                           "report":  "perf-search-open-r2.json"
+                                       },
+                                       {
+                                           "repeat":  3,
+                                           "cpu_percent_avg":  0.1039,
+                                           "cpu_percent_p95":  0.519,
+                                           "private_mib_avg":  55.18,
+                                           "private_mib_max":  56.37,
+                                           "private_mib_delta":  3.3,
+                                           "playback_state":  "idle",
+                                           "playback_state_end":  "idle",
+                                           "tracks_played":  0,
+                                           "auto_advances":  0,
+                                           "search_state_end":  "ready",
+                                           "gpu_percent_avg":  null,
+                                           "report":  "perf-search-open-r3.json"
+                                       }
+                                   ]
+                      }
+                  ]
+}

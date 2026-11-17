@@ -1,0 +1,43 @@
+MyMusic 0.1.0 — сторонние компоненты и уведомления
+=================================================
+
+MyMusic — собственный код проекта (каталог src/mymusic). Приложение не связано
+с Audius и использует публичный API каталога Audius согласно условиям сервиса:
+https://audius.co/terms и https://docs.audius.org.
+
+Qt 6.12 / PySide6 6.12 (The Qt Company, Qt for Python)
+------------------------------------------------------
+Лицензия: LGPL-3.0-only ИЛИ GPL-2.0-only ИЛИ GPL-3.0-only; в этой сборке
+используется вариант LGPL-3.0 с динамической компоновкой библиотек Qt.
+Исходный код Qt: https://code.qt.io/cgit/qt/
+Исходный код PySide6: https://code.qt.io/cgit/pyside/pyside-setup.git/
+Текст LGPL-3.0: licenses/LGPL-3.0.txt
+Уведомление: библиотеки Qt поставляются без изменений; пользователь вправе
+заменить динамические библиотеки Qt на совместимые версии.
+
+Qt Multimedia в Windows использует FFmpeg (FFmpeg Project)
+----------------------------------------------------------
+Лицензия библиотек FFmpeg в составе Qt: LGPL-2.1-or-later (см. сведения Qt).
+Исходный код FFmpeg: https://ffmpeg.org/
+Текст LGPL-3.0: licenses/LGPL-3.0.txt; ссылка на LGPL-2.1:
+https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+
+PyInstaller 6.22.3 (PyInstaller Development Team)
+------------------------------------------------
+Лицензия: GPL-2.0-or-later с исключением для загрузчика (bootloader exception),
+что разрешает распространение упакованных приложений под собственными условиями.
+Текст: https://github.com/pyinstaller/pyinstaller/blob/develop/COPYING.txt
+
+Python 3.14 (Python Software Foundation)
+---------------------------------------
+Лицензия: PSF License Agreement.
+Текст: https://docs.python.org/3/license.html
+
+shiboken6 6.12 (Qt for Python)
+-----------------------------
+Лицензия: LGPL-3.0-only ИЛИ GPL-2.0-only ИЛИ GPL-3.0-only.
+Исходный код: https://code.qt.io/cgit/pyside/pyside-setup.git/
+
+Примечание: сборка не подписана; Windows SmartScreen может показать
+предупреждение при первом запуске. Установщик и автообновление не входят
+в первую версию.

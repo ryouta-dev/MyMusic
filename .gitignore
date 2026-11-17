@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Build artifacts
+build/
+dist/
+MyMusic.spec
+*.log
+
+# Local tool state
+.sharrowkin/
+.qoder/
+
+# OS
+Thumbs.db
+desktop.ini

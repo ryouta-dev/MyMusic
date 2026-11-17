@@ -1,0 +1,23 @@
+{
+    "generated_at":  "2026-11-17T20:56:59Z",
+    "exe":  "C:\\mymusic\\dist\\MyMusic\\MyMusic.exe",
+    "workload":  "single-thread sha256 + integer loop, fixed 20 s per run",
+    "runs":  3,
+    "volume":  0,
+    "baseline_iterations_per_second":  [
+                                           400.0,
+                                           400.1,
+                                           396.4
+                                       ],
+    "loaded_iterations_per_second":  [
+                                         398.4,
+                                         397.8,
+                                         391.5
+                                     ],
+    "baseline_median":  400.0,
+    "loaded_median":  397.8,
+    "degradation_percent":  0.55,
+    "target_percent":  2,
+    "within_target":  true,
+    "player_report":  "perf-impact-player.json"
+}
